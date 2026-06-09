@@ -1,2 +1,3 @@
-# Student-Regestration-Form
-Student Regestration Form made with html  and css.
+# Responsive Student Registration Form
+
+A fully responsive student registration form using HTML and CSS.
